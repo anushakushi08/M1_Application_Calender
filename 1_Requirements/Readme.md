@@ -1,16 +1,15 @@
 # Requirements :-
 ## Introduction 
-### Basic calendar
-A calendar is a system of organizing days. This is done by giving names to periods of time, typically days, weeks, months and years. A date is the designation of a single, specific day within such a system. A calendar is also a physical record (often paper) of such a system. A calendar can also mean a list of planned events, such as a court calendar or a partly or fully chronological list of documents, such as a calendar of wills.
+Student record management system is designed to help manage the daily school activities of recording and maintaining by automating it.The main objective of the Student Management System is to manage the details of Profiles, Cources, Logins, Exams, Fees. It manages all the information about Profiles, Student, Fees, Profiles. 
 
 # Research :-
-Calendars are useful tools for keeping track of upcoming meetings, deadlines, and milestones. They can help you visualize your schedule and remind you of important events, such as holidays and vacation time.
+Student information systems provide capabilities for registering students in courses; documenting grading, transcripts of academic achievement and co-curricular activities, and the results of student assessment scores; forming student schedules; tracking student attendance; generating reports and managing other student. 
 
 
 
 
 
- ![1](https://cdn.blessthisstuff.com/imagens/stuff/dakboard-smart-wall-display-3.jpg)
+ ![1](https://codecanyon.img.customer.envatousercontent.com/files/243731726/Inline-Preview-Image.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=ad569b62f42f27c791fb1451062feb61)
                                                                           
 
 
