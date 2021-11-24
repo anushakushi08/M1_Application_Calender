@@ -18,53 +18,62 @@ Student information systems provide capabilities for registering students in cou
 
 
 
-## a)	10 years Ago Calendar
+## a)	10 years Ago Student_Record System
 
-- This is the old version of calendar
-- The calendar will only prepare by a paper
-- In that it will only by getting in shops
-- Cost is high 
+- This is the old version of Record system
+- The Student record will maintain by a some dairy or book
+- It is low of cost
+- It will take much time to store or to save in book.
 
-## b)  	New Generation Calculator 
+## b)  	New Generation Student_Record System
 
-- it is inbuilt in all mobiles.
-- It is having many features and also much benefits
-- We can set up remainder for particular dates.
+- Cost is High.
+- It is most faster to maintain records
+- We can update easily.
+- Take less time.
 
 # Defining Our System :-
-A calendar is a system of organizing days. This is done by giving names to periods of time, typically days, weeks, months and years.
+System is to manage the details of Profiles, Cources, Logins, Exams, Fees. It manages all the information about Profiles, Student, Fees, Profiles. The project is totally built at administrative end and thus only the administrator is guaranteed the access.
 
 # SWOT ANALYSIS :-
 SWOT Analysis is a simple tool that can help you to analyze what your company does best right now, and to devise a successful strategy for the future. SWOT can also reveal areas of the business that are holding you back, or that your competitors could exploit if you don't protect yourself.
 
 
 ## a) Strengths 
-It keeps us accountable Scheduling my most recent doctor's appointment reminded me of how valuable appointments are.
+- Efficient control over student data.
+- Monitor student performance.
+- Supervise multiple branches.
+- Cost-efficient and User-friendly.
 ## b) Weaknesses
-I had determined that my design weaknesses included working with a complex color palette, serif or decorative type, and non-traditional grid structures. Additionally, I wanted to make sure that my typographical treatments clearly supported the intention of the calendar.
+- The most obvious – and arguably, the most significant – disadvantage of a document storage facility is that your organization has to store its business documents off-site. 
+- Cost.
+- Record Security.
+- Misplacement and Misfiling of Documents.
 ## c)  Opportunity
-Allow users to create a graphical / calendar representation of Opportunities on a Weekly or Monthly calendar grid. Users would use report-like selection.   
+- Paperles-s System for Digitization of Work .
+- Centralized Platform for Record Management 
+- Records from -Admission to Alumni Journey
 ## d) Threats 
-Threats include anything that can negatively affect your business from the outside, such as supply-chain problems, shifts in market requirements, or a shortage of recruits.
+- Digital hackers are watching your every move and trick you to download malware and take control of your computer remotely.
+- Manual Handling - objects and people.
 
 # 4W's and 1'H :-
 - # What
- A chart or series of pages showing the days, weeks, and months of a particular year, or giving particular seasonal information.
+the administrative activities that are concerned with achieving cost-effectiveness and efficiency in the creation, maintenance, use and disposal of the records of    educational institutions throughout their entire life cycle.
 - # Where 
- It has to be used easily by the users
+ It has to be used school,college,hostel.
 - # When
 It has to be deployed 25th of November 2021
 - # Why
- I am Developing this basic Calendar to understand how it will create and useable in best easy manner and improve my coding skills
+ I am Developing this student record to understand how it will create and useable in best easy manner and improve my coding skills
 - # How
- I am using C programming language for Developing this simple Calendar
+ I am using C programming language for Developing this student record.
  # Detail requirements :-
  ## High Level Requirements
+ Security: Only authorized users can access the system with username and password. 
  
- Viewing the Calendar at Different Levels · 2.3.1.1. Day View 
 
 ## LOW Level Requirements
-
-Lower level schedule and extracted as a report.
+Adding,Update,delete,Maintaining.
 
  
