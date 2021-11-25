@@ -5,13 +5,10 @@ Student Record System
 # BADGES
 | Code Quality Score |
 |--------------------|
-| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9686e15a0f9e46829c42a11180fb54f4)](https://www.codacy.com/gh/varshasalimath/M1_Application_phonebook/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=varshasalimath/M1_Application_phonebook&amp;utm_campaign=Badge_Grade) |
+| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5b2ba98122b14294813c69c4f04c9bd1)](https://www.codacy.com/gh/anushakushi08/M1_Application_Student-Record-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=anushakushi08/M1_Application_Student-Record-System&amp;utm_campaign=Badge_Grade) |
 
 
- |Code   Quality   Score|
- |----------------------|
- | ![Codacy Badge](https://app.codacy.com/project/badge/Grade/5b2ba98122b14294813c69c4f04c9bd1)](https://www.codacy.com/gh/anushakushi08/M1_Application_Student-Record-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=anushakushi08/M1_Application_Student-Record-System&amp;utm_campaign=Badge_Grade)|
-
+ 
 # **Student Record system**
 A sample C programming code for a real time student record application program is given below. This program will perform the below tasks.
 
